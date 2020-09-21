@@ -1,2 +1,7 @@
 # prueba_tulpep
-prueba desarrollador
+Tratamiento y carga de datos en CSV
+Cliente Python
+Servidor PHP
+
+
+
