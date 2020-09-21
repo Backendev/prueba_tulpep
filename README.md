@@ -4,4 +4,9 @@ Cliente Python
 Servidor PHP
 
 
+Nota:
+-Extension en php.ini
+extension=sockets
+
+
 
